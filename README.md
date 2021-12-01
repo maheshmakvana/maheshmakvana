@@ -8,6 +8,12 @@ Here's a list of thing about me-
 - 📫 Reach me at maheshmakwana527@gmail.com
 - 💬 Ask me about anything, I will be glad to help.
 
+<p align="center"><img align="center" alt="gif" src="https://github.com/HVM3/HVM3/gif.gif" width="500" height="320"></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HVM3&label=Profile%20views&color=0e75b6&style=flat" alt="HVM3" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HVM3" alt="HVM3" /></a> </p>
+
 ## Connect with me
 
 <p align='left'>
@@ -71,6 +77,7 @@ Data Scrapping & Automation(Selenium), Algorithms, Load Balancing and server str
 ## 📈 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HVM3&&show_icons=true&theme=nightowl)
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HVM3&theme=react-dark&hide_border=true&area=true)
 
 <!--
 **HVM3/HVM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
