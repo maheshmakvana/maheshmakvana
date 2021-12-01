@@ -2,6 +2,10 @@
 
 <p align="center"><img align="center" alt="gif" src="https://github.com/HVM3/HVM3/blob/Master/gif.gif" width="500" height="320"></p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HVM3&label=Profile%20views&color=0e75b6&style=flat" alt="HVM3" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HVM3" alt="HVM3" /></a> </p>
+
 Here's a list of thing about me-
 
 - 👨‍💻 A passionate front end developer from Iɴᴅɪᴀ :india: .  
@@ -12,9 +16,9 @@ Here's a list of thing about me-
 - 💬 Ask me about anything, I will be glad to help.
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=HVM3&label=Profile%20views&color=0e75b6&style=flat" alt="HVM3" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HVM3" alt="HVM3" /></a> </p>
+
+
 
 ## Connect with me
 
