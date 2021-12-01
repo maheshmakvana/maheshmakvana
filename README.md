@@ -20,7 +20,7 @@ Here's a list of thing about me-
 </p>
 
 
-
+## 🔧 Skill Set
 
 - OS :     <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white&color=black"> 
      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"> 
@@ -69,7 +69,7 @@ Here's a list of thing about me-
 Data Scrapping & Automation(Selenium), Algorithms, Load Balancing and server stress testing
 
 ## 📈 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=downside154&&show_icons=true&theme=nightowl)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HVM3&&show_icons=true&theme=nightowl)
 
 
 <!--
