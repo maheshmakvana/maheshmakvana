@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HVM3&label=Profile%20views&color=0e75b6&style=flat" alt="HVM3" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HVM3" alt="HVM3" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HVM3" alt="HVM3" /></a> </p> -->
 
 Here's a list of thing about me-
 
