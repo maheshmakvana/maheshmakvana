@@ -39,7 +39,7 @@ Here's a list of thing about me-
 
 
 - Code :     <img src="https://img.shields.io/badge/Python-5C0D34?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
 - Database: <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 - Editor :     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <!-- - Shell :     <img src="https://img.shields.io/badge/Z%20Shell-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white">
@@ -78,20 +78,18 @@ Here's a list of thing about me-
 <a href="https://www.postman.com/" target="_blank">
 <img height="30" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman">
 </a>
-<a href="https://www.postman.com/" target="_blank">
-<img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
-</a>
+
 
 ## 🌱 Learning
-Data Scrapping & Automation(Selenium), Algorithms, Load Balancing and server stress testing
+GoLanguage, Data Structure and Algorithms
 
 ## 📈 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HVM3&&show_icons=true&theme=nightowl)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshmakvana&&show_icons=true&theme=nightowl)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=HVM3&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maheshmakvana&theme=react-dark&hide_border=true&area=true)
 
 <!--
-**HVM3/HVM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maheshmakvana/maheshmakvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
