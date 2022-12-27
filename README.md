@@ -49,11 +49,11 @@ Here's a list of thing about me-
 
 <p align='left'>
 <a href="https://www.linkedin.com/in/mahesh-makwana/">
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="maheshmakvana"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/maheshmakwana_787/">
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="maheshmakvana"></a>&nbsp;&nbsp;
-<a href="https://www.hackerearth.com/@maheshmakwana527">
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hackerrank.svg" alt="maheshmakvana"></a>&nbsp;&nbsp;
+<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="maheshmakvana"></a>&nbsp;&nbsp;
+
+<a href="mailto:maheshmakwana527@gmail.com">
+<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="maheshmakvana"></a>&nbsp;&nbsp;
+
 </p>
 
 
