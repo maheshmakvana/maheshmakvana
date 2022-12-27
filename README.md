@@ -134,3 +134,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<img src="https://camo.githubusercontent.com/9e342bd35a241b71d3e030508048a7afcd2152475a3def94e59473ea67d68ca8/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966">
