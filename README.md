@@ -49,11 +49,11 @@ Here's a list of thing about me-
 
 <p align='left'>
 <a href="https://www.linkedin.com/in/mahesh-makwana/">
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="HVM3"></a>&nbsp;&nbsp;
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="maheshmakvana"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/maheshmakwana_787/">
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="HVM3"></a>&nbsp;&nbsp;
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="maheshmakvana"></a>&nbsp;&nbsp;
 <a href="https://www.hackerearth.com/@maheshmakwana527">
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hackerrank.svg" alt="HVM3"></a>&nbsp;&nbsp;
+<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hackerrank.svg" alt="maheshmakvana"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -64,7 +64,8 @@ Here's a list of thing about me-
 
 
 - Code :     <img src="https://img.shields.io/badge/Python-5C0D34?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> 
+<!-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  -->
 - Database: <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 - Editor :     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <!-- - Shell :     <img src="https://img.shields.io/badge/Z%20Shell-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white">
@@ -94,9 +95,9 @@ Here's a list of thing about me-
 <a href="https://getbootstrap.com/" target="_blank">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap">
 </a>
-<a href="https://git-scm.com/" target="_blank">
+<!-- <a href="https://git-scm.com/" target="_blank">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git">
-</a>
+</a> -->
 <a href="https://github.com/" target="_blank">
 <img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github">
 </a>
@@ -111,7 +112,7 @@ GoLanguage, Data Structure and Algorithms
 ## 📈 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshmakvana&&show_icons=true&theme=nightowl)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maheshmakvana&theme=react-dark&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=maheshmakvana&theme=react-dark&hide_border=true&area=true) -->
 
 <!--
 **maheshmakvana/maheshmakvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
