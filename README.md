@@ -44,7 +44,7 @@ Here's a list of thing about me-
 - Editor :     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <!-- - Shell :     <img src="https://img.shields.io/badge/Z%20Shell-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white">
     <img src="https://img.shields.io/badge/Bash%20Shell-0AC18E?style=for-the-badge&logo=GNUBash&logoColor=white"> -->
-- Container :     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<!-- - Container :     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> -->
 - Cloud :     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
 - Developer/Forums: <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"> 
 
