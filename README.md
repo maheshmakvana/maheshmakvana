@@ -31,14 +31,14 @@ me.say_hi()
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshmakvana" alt="maheshmakvana" /></a> </p> -->
 
-Here's a list of thing about me-
+<!-- Here's a list of thing about me-
 
 - 👨‍💻 A passionate back end developer from Iɴᴅɪᴀ :india: .  
 - 🔭 Currently working on **Python** .  
 - 🌱 I’m constant learner.
 - 🎮 love video games 
 - 📫 Reach me at maheshmakwana527@gmail.com
-- 💬 Ask me about anything, I will be glad to help.
+- 💬 Ask me about anything, I will be glad to help. -->
 
 
 
@@ -66,13 +66,17 @@ Here's a list of thing about me-
 - Code :     <img src="https://img.shields.io/badge/Python-5C0D34?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> 
 <!-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  -->
+
 - Database: <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+
 - Editor :     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <!-- - Shell :     <img src="https://img.shields.io/badge/Z%20Shell-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white">
     <img src="https://img.shields.io/badge/Bash%20Shell-0AC18E?style=for-the-badge&logo=GNUBash&logoColor=white"> -->
 <!-- - Container :     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> -->
+
 - Cloud :     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
-- Developer/Forums: <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"> 
+
+- Developer/Forums: <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> 
 
 
 ## ⚡Languages and Tools
