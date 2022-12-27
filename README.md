@@ -8,7 +8,7 @@
 
 Here's a list of thing about me-
 
-- 👨‍💻 A passionate front end developer from Iɴᴅɪᴀ :india: .  
+- 👨‍💻 A passionate back end developer from Iɴᴅɪᴀ :india: .  
 - 🔭 Currently working on **Python** .  
 - 🌱 I’m constant learner.
 - 🎮 love video games 
@@ -38,12 +38,15 @@ Here's a list of thing about me-
      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"> 
 
 
-- Code :     <img src="https://img.shields.io/badge/Python-5C0D34?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+- Code :     <img src="https://img.shields.io/badge/Python-5C0D34?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
+- Database: <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 - Editor :     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <!-- - Shell :     <img src="https://img.shields.io/badge/Z%20Shell-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white">
     <img src="https://img.shields.io/badge/Bash%20Shell-0AC18E?style=for-the-badge&logo=GNUBash&logoColor=white"> -->
 - Container :     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-- Cloud :     <img src="https://img.shields.io/badge/AWS(E3/EC2/RDS)-FF9900?style=for-the-badge&logo=Amazon&logoColor=white">
+- Cloud :     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
+- Developer/Forums: <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"> 
 
 
 ## ⚡Languages and Tools
@@ -75,7 +78,9 @@ Here's a list of thing about me-
 <a href="https://www.postman.com/" target="_blank">
 <img height="30" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman">
 </a>
-
+<a href="https://www.postman.com/" target="_blank">
+<img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
+</a>
 
 ## 🌱 Learning
 Data Scrapping & Automation(Selenium), Algorithms, Load Balancing and server stress testing
