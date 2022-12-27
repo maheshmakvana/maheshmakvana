@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I'm Mahesh Makwana 👋</h1>
 
-<p align="center"><img align="center" alt="gif" src="https://github.com/maheshmakvana/maheshmakvana/blob/Master/gif.gif" width="500" height="320"></p>
+<!-- <p align="center"><img align="center" alt="gif" src="https://github.com/maheshmakvana/maheshmakvana/blob/Master/gif.gif" width="500" height="320"></p> -->
 
 ```python
 #!/usr/bin/python
@@ -24,7 +24,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maheshmakvana&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmakvana" /> [![Linkedin: mahesh-makwana](https://img.shields.io/badge/-Mahesh Makvana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahesh-makwana/)](https://www.linkedin.com/in/mahesh-makwana/) </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maheshmakvana&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmakvana" /> </p>
 
 
 
