@@ -7,20 +7,20 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class PythonDeveloper:
 
     def __init__(self):
         self.name = "Mahesh Makvana"
         self.role = "Python Developer"
         self.company = "TCS"
-        self.language_spoken = ["en_US"]
+        self.language_spoken = ["en_US","hi_IN","gu_IN"]
         
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = PythonDeveloper()
 me.say_hi()
 ```
 
@@ -110,8 +110,8 @@ me.say_hi()
 </a>
 
 
-## 🌱 Learning
-GoLanguage, Data Structure and Algorithms
+<!-- ## 🌱 Learning
+GoLanguage, Data Structure and Algorithms -->
 
 ## 📈 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshmakvana&&show_icons=true&theme=nightowl)
