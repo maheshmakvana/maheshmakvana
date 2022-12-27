@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, I'm Mahesh Makwana 👋</h1>
+<h1 align='center'>Hi, I'm Mahesh Makwana 👋 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maheshmakvana&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmakvana" /> </p></h1>
 
 <!-- <p align="center"><img align="center" alt="gif" src="https://github.com/maheshmakvana/maheshmakvana/blob/Master/gif.gif" width="500" height="320"></p> -->
 
@@ -24,7 +24,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maheshmakvana&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmakvana" /> </p>
+
 
 
 
