@@ -11,8 +11,8 @@ class PythonDeveloper:
 
     def __init__(self):
         self.name = "Mahesh Makvana"
-        self.role = "Technical Lead"
-        self.company = "HCL"
+        self.role = "Senior Associate Technology"
+        self.company = "Publicis Sapient"
         self.language_spoken = ["en_US","hi_IN","gu_IN"]
         
 
